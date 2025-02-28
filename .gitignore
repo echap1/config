@@ -5,5 +5,8 @@
 !*/
 !fish/**
 !lvim/**
+!xfce4/**
+!Thunar/**
 
 **/.DS_Store
+**/.*
