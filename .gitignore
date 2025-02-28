@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!*/
+!fish/**
+!lvim/**
+
+**/.DS_Store
