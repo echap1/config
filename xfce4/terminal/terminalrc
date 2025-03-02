@@ -26,8 +26,8 @@ MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
-MiscShowUnsafePasteDialog=TRUE
+MiscShowUnsafePasteDialog=FALSE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 CustomCommand=/usr/bin/fish
-FontName=JetBrainsMonoNL Nerd Font Semi-Bold 12
+FontName=JetBrainsMonoNL Nerd Font Semi-Bold 10
 
