@@ -23,7 +23,7 @@ lvim.plugins = {
           return {
             dark2 = "#101010",
             dark1 = "#131313",
-            background = "#161616",
+            background = "#1A1A1A",
             -- text = "#C0CAF5",
             -- accent1 = "#f7768e",
             -- accent2 = "#7aa2f7",

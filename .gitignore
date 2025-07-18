@@ -7,6 +7,7 @@
 !lvim/**
 !xfce4/**
 !Thunar/**
+!zed/**
 
 **/.DS_Store
 **/.*
