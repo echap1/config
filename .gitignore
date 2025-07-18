@@ -1,7 +1,5 @@
 *
 
-!.gitignore
-
 !*/
 !fish/**
 !lvim/**
@@ -9,5 +7,10 @@
 !Thunar/**
 !zed/**
 
+zed/embeddings/**
+zed/prompts/**
+
 **/.DS_Store
 **/.*
+
+!.gitignore
